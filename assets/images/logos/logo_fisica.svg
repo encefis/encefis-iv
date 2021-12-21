@@ -181,9 +181,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.08"
-     inkscape:cx="46.759259"
-     inkscape:cy="209.72222"
+     inkscape:zoom="0.41"
+     inkscape:cx="47.560976"
+     inkscape:cy="118.29268"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -192,7 +192,7 @@
     <inkscape:grid
        type="xygrid"
        id="grid1244"
-       originx="-325.12971"
+       originx="-325.12961"
        originy="426.83167" />
   </sodipodi:namedview>
   <text
@@ -253,9 +253,9 @@
      inkscape:export-ydpi="115.2"><tspan
        x="-68.550758"
        y="-59.060364"
-       id="tspan454"><tspan
+       id="tspan13431"><tspan
          dx="0 28.398438 18.710938 28.886719 18.710938 31.835938"
-         id="tspan452">FISICA</tspan></tspan></text>
+         id="tspan13429">FISICA</tspan></tspan></text>
   <g
      id="g66914"
      transform="matrix(1.0078332,0,0,1.0078332,-44.030147,-18.590001)"
