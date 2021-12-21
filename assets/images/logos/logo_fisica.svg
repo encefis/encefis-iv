@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg2"
-   width="310.81778"
-   height="389.28455"
-   viewBox="0 0 310.81777 389.28455"
+   width="300"
+   height="375.73578"
+   viewBox="0 0 299.99999 375.73578"
    sodipodi:docname="logo_fisica.svg"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    inkscape:export-filename="/home/fredi/Pictures/logo_fisica_sin_fondo.png"
@@ -192,7 +192,7 @@
     <inkscape:grid
        type="xygrid"
        id="grid1244"
-       originx="-325.12974"
+       originx="-325.12973"
        originy="426.83167" />
   </sodipodi:namedview>
   <text
@@ -238,12 +238,12 @@
      transform="translate(118.07118,-64.396256)"><tspan
        x="-68.550758"
        y="-59.060364"
-       id="tspan939"><tspan
+       id="tspan200"><tspan
          dx="0 28.398438 18.710938 28.886719 18.710938 31.835938"
-         id="tspan937">FISICA</tspan></tspan></text>
+         id="tspan198">FISICA</tspan></tspan></text>
   <g
      id="g66914"
-     transform="matrix(1.5385643,0,0,1.5385643,-67.21669,-28.379609)">
+     transform="matrix(1.4850157,0,0,1.4850157,-64.877263,-27.391878)">
     <ellipse
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.01806;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1143"
