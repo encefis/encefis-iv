@@ -92,16 +92,16 @@ var days, hours, minutes, seconds;
 // get tag element
 var countdown =  document.getElementById("countdown-box");
 var days_span = document.createElement("SPAN");
-days_span.className = 'days';
+days_span.className = 'Dias';
 countdown.appendChild(days_span);
 var hours_span = document.createElement("SPAN");
-hours_span.className = 'hours';
+hours_span.className = 'Horas';
 countdown.appendChild(hours_span);
 var minutes_span = document.createElement("SPAN");
-minutes_span.className = 'minutes';
+minutes_span.className = 'Minutos';
 countdown.appendChild(minutes_span);
 var secs_span = document.createElement("SPAN");
-secs_span.className = 'secs';
+secs_span.className = 'Segundos';
 countdown.appendChild(secs_span);
  
 // update the tag with id "countdown" every 1 second
