@@ -87,12 +87,12 @@ var spy = new Gumshoe('#navigation a', {
 var target_date = new Date("Jan 20, 2022").getTime();
  
 // variables for time units
-var days, hours, minutes, seconds;
+var Días, Horas, Minutos, Segundos;
  
 // get tag element
 var countdown =  document.getElementById("countdown-box");
 var days_span = document.createElement("SPAN");
-days_span.className = 'Dias';
+days_span.className = 'Días';
 countdown.appendChild(days_span);
 var hours_span = document.createElement("SPAN");
 hours_span.className = 'Horas';
