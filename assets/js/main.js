@@ -87,7 +87,7 @@ var spy = new Gumshoe('#navigation a', {
 var target_date = new Date("Jan 20, 2022").getTime();
  
 // variables for time units
-var Días, Horas, Minutos, Segundos;
+var days, hours, minutes, seconds;
  
 // get tag element
 var countdown =  document.getElementById("countdown-box");
@@ -122,9 +122,9 @@ setInterval(function () {
     seconds = parseInt(seconds_left % 60);
      
     // format countdown string + set tag value.
-    days_span.innerHTML = '<span class="number">' + days + '</span>' + '<span class="unit">Days</span>';
-    hours_span.innerHTML = '<span class="number">' + hours + '</span>' + '<span class="unit">Hrs</span>';
-    minutes_span.innerHTML = '<span class="number">' + minutes + '</span>' + '<span class="unit">Mins</span>';
-    secs_span.innerHTML = '<span class="number">' + seconds + '</span>' + '<span class="unit">Secs</span>'; 
+    days_span.innerHTML = '<span class="number">' + days + '</span>' + '<span class="unit">Días</span>';
+    hours_span.innerHTML = '<span class="number">' + hours + '</span>' + '<span class="unit">Horas</span>';
+    minutes_span.innerHTML = '<span class="number">' + minutes + '</span>' + '<span class="unit">Minutos</span>';
+    secs_span.innerHTML = '<span class="number">' + seconds + '</span>' + '<span class="unit">Segundos</span>'; 
  
 }, 1000);
